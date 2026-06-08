@@ -1,3 +1,7 @@
+需要看源码的看.pyw文件
+需要直接使用的去releases（右边）下载EXE文件
+
+
 # Claude 用量监控悬浮组件 V3
 
 一个运行在 Windows 桌面的悬浮小工具，实时监控你的 claude.ai 用量配额。
